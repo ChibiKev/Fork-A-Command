@@ -11,5 +11,10 @@ Project for CSC 332 - Operating Systems with Professor Zaid Al-Mashhadni at the 
 4. dir2/
 ## Additional Information
 - There are comments in the code that illustrates the thought process and exactly what each line of code is doing.
+## Using the Application
+### The Terminal
+![](images/Terminal.JPG)
+### The Folder
+![](images/Folder.JPG)
 ## Ask me about anything
 If there are any questions, feel free to ask them [here](https://github.com/ChibiKev/Fork-A-Command/issues).
